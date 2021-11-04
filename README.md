@@ -7,6 +7,8 @@ $ pip install flask
 
 And open port (5000).
 
+When activating ufw, don't forget opening ssh port!
+
 $ sudo ufw allow 5000
 
 # to run the flask program (matplt.py)
