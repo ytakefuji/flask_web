@@ -1,4 +1,4 @@
-# flask_website
+# flask_web
 This shows how to use a Python flask library to run a webserver.
 
 In order to use the flask, it should be installed by:
