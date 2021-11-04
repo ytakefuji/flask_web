@@ -5,7 +5,7 @@ In order to use the flask, it should be installed by:
 
 $ pip install flask
 
-And open port (5000) using ufw.
+And open port (5000).
 
 $ sudo ufw allow 5000
 
